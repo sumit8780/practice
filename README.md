@@ -1,3 +1,3 @@
 this is first commit
 nahi 
-isme mera hai
+isme nahi tera hai
